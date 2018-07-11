@@ -10,9 +10,13 @@ redirect_from:
 
 
 I am a PhD student in Computer Science at the [University of
-Trento](http://www.unitn.it/en) and a prospective research intern at Spotify
-London. My PhD advisor is [Andrea
-Passerini](http://disi.unitn.it/~passerini).
+Trento](http://www.unitn.it/en). I am a
+member of the [SML research group](http://sml.disi.unitn.it/) and my PhD advisor
+is Prof. [Andrea Passerini](http://disi.unitn.it/~passerini).
+
+I am currently working at [Spotify](https://labs.spotify.com/) London as a
+research intern, mentored by [Mounia Lalmas](https://mounia-lalmas.blog/) and
+[Rishabh Mehrotra](http://rishabhmehrotra.com/).
 
 <h2>Research</h2>
 
@@ -46,12 +50,15 @@ Teso](http://disi.unitn.it/~teso) on Constructive Preference Elicitation. During
 my PhD I also traveled a lot, spending some time in Paris, hosted by [Paolo
 Viappiani](http://www-desir.lip6.fr/~viappianip) at UPMC, and in Darmstadt,
 hosted by [Kristian Kersting](http://www.ml.informatik.tu-darmstadt.de/) at TU
-Darmstadt. In June 2018 I started an research internship at Spotify London,
-where I work primarily on Contextual Bandits algorithms.
+Darmstadt. In June 2018 I started a research internship at Spotify Research
+London, where I work primarily on Contextual Bandits algorithms, together with
+[Mounia Lalmas](https://mounia-lalmas.blog/) and [Rishabh
+Mehrotra](http://rishabhmehrotra.com/).
 
 
 <h2>Contact</h2>
 
+Paolo Dragone<br>
 Deptarment of Information Engineering and Computer Science - DISI<br>
 University of Trento<br>
 Via Sommarive, 9<br>
