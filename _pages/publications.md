@@ -11,6 +11,4 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<script src="https://bibbase.org/show?bib=http%3A%2F%2Fpaolodragone.com%2Fbibtex%2Fmypubs.bib&jsonp=1"></script>
