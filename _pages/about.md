@@ -42,11 +42,11 @@ I got my M.Sc. in Computer Engineering in 2015 from Sapienza University of Rome
 (Italy).  During my last year of masters I studied for a semester at the
 University of Melbourne (Australia) and I worked on my masters thesis abroad at
 the University of Oslo (Norway). There I worked with [Pierre
-Lison](https://www.nr.no/~plison) on Semantics for Dialogue Systems. After my
-graduation, I started my PhD at the University of Trento, a lovely small city in
-northern Italy, full of brilliant scientists. Here I started working with
-[Andrea Passerini](http://disi.unitn.it/~passerini) and [Stefano
-Teso](http://disi.unitn.it/~teso) on Constructive Preference Elicitation. During
+Lison](https://www.nr.no/~plison) on semantics of dialogue and dialogue systems.
+After my graduation, I started my PhD at the University of Trento, a lovely
+small city in northern Italy, full of brilliant scientists. Here I started
+working with [Andrea Passerini](http://disi.unitn.it/~passerini) and [Stefano
+Teso](http://disi.unitn.it/~teso) on constructive preference elicitation. During
 my PhD I also traveled a lot, spending some time in Paris, hosted by [Paolo
 Viappiani](http://www-desir.lip6.fr/~viappianip) at UPMC, and in Darmstadt,
 hosted by [Kristian Kersting](http://www.ml.informatik.tu-darmstadt.de/) at TU
