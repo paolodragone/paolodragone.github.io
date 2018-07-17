@@ -34,7 +34,7 @@ learning which I have also come to know pretty well, such as Online Learning,
 Convex Optimization, Preference Elicitation and Recommendation Systems.  Other
 areas I am interested in are Deep Learning, Reinforcement Learning, Natural
 Language Processing, Dialogue Systems, Statistical Relational Learning and
-Constraint Programming. Check out my CV for more details.
+Constraint Programming. Check out my [CV](/files/CV.pdf) for more details.
 
 <h2>Short Bio</h2>
 
