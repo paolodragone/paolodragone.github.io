@@ -11,4 +11,4 @@ author_profile: true
 
 {% include base_path %}
 
-<script src="https://bibbase.org/show?bib=http%3A%2F%2Fpaolodragone.com%2Fbibtex%2Fmypubs.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=http%3A%2F%2Fpaolodragone.com%2F_publications%2Fmypubs.bib&jsonp=1"></script>
