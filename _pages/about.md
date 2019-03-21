@@ -9,14 +9,10 @@ redirect_from:
 ---
 
 
-I am a PhD student in Computer Science at the [University of
-Trento](http://www.unitn.it/en). I am a
-member of the [SML research group](http://sml.disi.unitn.it/) and my PhD advisor
-is Prof. [Andrea Passerini](http://disi.unitn.it/~passerini).
-
-I am currently working at [Spotify](https://labs.spotify.com/) London as a
-research intern, mentored by [Mounia Lalmas](https://mounia-lalmas.blog/) and
-[Rishabh Mehrotra](http://rishabhmehrotra.com/).
+I am a PhD candidate in Computer Science at the [University of
+Trento](http://www.unitn.it/en). I am a member of the [SML research
+group](http://sml.disi.unitn.it/) and my PhD advisor is Prof. [Andrea
+Passerini](http://disi.unitn.it/~passerini).
 
 <h2>Research</h2>
 
@@ -46,14 +42,13 @@ Lison](https://www.nr.no/~plison) on semantics of dialogue and dialogue systems.
 After my graduation, I started my PhD at the University of Trento, a lovely
 small city in northern Italy, full of brilliant scientists. Here I started
 working with [Andrea Passerini](http://disi.unitn.it/~passerini) and [Stefano
-Teso](http://disi.unitn.it/~teso) on constructive preference elicitation. During
-my PhD I also traveled a lot, spending some time in Paris, hosted by [Paolo
-Viappiani](http://www-desir.lip6.fr/~viappianip) at UPMC, and in Darmstadt,
-hosted by [Kristian Kersting](http://www.ml.informatik.tu-darmstadt.de/) at TU
-Darmstadt. In June 2018 I started a research internship at Spotify Research
-London, where I work primarily on Contextual Bandits algorithms, together with
-[Mounia Lalmas](https://mounia-lalmas.blog/) and [Rishabh
-Mehrotra](http://rishabhmehrotra.com/).
+Teso](http://disi.unitn.it/~teso) on constructive preference elicitation. In the
+summer of 2018 I started a research internship at Spotify Research London, where
+I work primarily on Contextual Bandits algorithms, together with [Mounia
+Lalmas](https://mounia-lalmas.blog/) and [Rishabh
+Mehrotra](http://rishabhmehrotra.com/). I am currently a PhD candidate and plan
+to defend my thesis in April 2019. In May of 2019 I will be joining
+[Criteo](https://ailab.criteo.com/) as a Machine Learning engineer.
 
 
 <h2>Contact</h2>
