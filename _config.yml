@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Paolo Dragone"
   avatar           : "fototessera.jpg"
-  bio              : "PhD candidate"
-  location         : "Trento"
-  employer         :
+  bio              : "ML Engineer"
+  location         : "Paris"
+  employer         : "Criteo"
   googlescholar    : "https://scholar.google.it/citations?user=uW6QyWUAAAAJ&hl=en"
   email            : "/images/email.png"
   uri              :
