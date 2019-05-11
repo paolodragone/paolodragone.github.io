@@ -8,29 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a PhD candidate in Computer Science at the [University of
-Trento](http://www.unitn.it/en). I am a member of the [SML research
-group](http://sml.disi.unitn.it/) and my PhD advisor is Prof. [Andrea
+I am a Machine Learning Engineer at [Criteo](https://criteo.com/). I recently
+obtained my PhD in Computer Science from the [University of
+Trento](http://www.unitn.it/en). My PhD advisor was Prof. [Andrea
 Passerini](http://disi.unitn.it/~passerini).
 
 <h2>Research</h2>
 
-I work on several topics in Machine Learning, especially those concerning the
-prediction of structures and complex objects, as well as applications thereof.
-This research area is called structured-output prediction and is my current
-research focus. I'm interested in both the "old fashioned" large-margin
-approaches as well as recent deep architectures. I'm particularly interested in
-embedding knowledge into structured prediction models, usually through some kind
-of constraint solving/learning methods. During my PhD I applied this concept to
-preference-based decision problems over combinatorial spaces of choices. The
-resulting framework is called "constructive preference elicitation", and will be
-the topic of my PhD thesis. My work touches several other areas of machine
-learning which I have also come to know pretty well, such as Online Learning,
-Convex Optimization, Preference Elicitation and Recommendation Systems.  Other
-areas I am interested in are Deep Learning, Reinforcement Learning, Natural
-Language Processing, Dialogue Systems, Statistical Relational Learning and
-Constraint Programming. Check out my [CV](/files/CV.pdf) for more details.
+During my PhD, I worked on several topics in Machine Learning, especially those
+concerning the prediction of structures and complex objects, as well as
+applications thereof.  This research area is called structured-output prediction
+and is my current research focus. I'm interested in both the "old fashioned"
+large-margin approaches as well as recent deep architectures. I'm particularly
+interested in embedding knowledge into structured prediction models, usually
+through some kind of constraint solving/learning methods. During my PhD I
+applied this concept to preference-based decision problems over combinatorial
+spaces of choices. The resulting framework is called "constructive preference
+elicitation", which has been the focus of my PhD thesis. My work touches several
+other areas of machine learning which I have also come to know pretty well, such
+as Online Learning, Convex Optimization, Preference Elicitation and
+Recommendation Systems.  Other areas I am interested in are Deep Learning,
+Reinforcement Learning, Natural Language Processing, Dialogue Systems,
+Statistical Relational Learning and Constraint Programming. Check out my
+[CV](/files/CV.pdf) for more details.
 
 <h2>Short Bio</h2>
 
@@ -46,16 +46,15 @@ Teso](http://disi.unitn.it/~teso) on constructive preference elicitation. In the
 summer of 2018 I started a research internship at Spotify Research London, where
 I work primarily on Contextual Bandits algorithms, together with [Mounia
 Lalmas](https://mounia-lalmas.blog/) and [Rishabh
-Mehrotra](http://rishabhmehrotra.com/). I am currently a PhD candidate and plan
-to defend my thesis in April 2019. In May of 2019 I will be joining
-[Criteo](https://ailab.criteo.com/) as a Machine Learning engineer.
+Mehrotra](http://rishabhmehrotra.com/). I defended my PhD thesis in April 2019.
+In May of 2019 I joined [Criteo](https://ailab.criteo.com/) at their office in
+Paris as a Machine Learning Engineer.
 
 
 <h2>Contact</h2>
 
 Paolo Dragone<br>
-Deptarment of Information Engineering and Computer Science - DISI<br>
-University of Trento<br>
-Via Sommarive, 9<br>
-38123 Povo (TN), Italy
+Criteo<br>
+32 rue Blanche,<br>
+75009 Paris
 
