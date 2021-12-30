@@ -12,7 +12,7 @@ collaborated.
 
 A Python interface to the MiniZinc constrating programming language.
 
-[GitHub](https://github.com/paolodragone/pymzn) &nbsp;&nbsp;&nbsp; [Docs](http://paolodragone.com/pymzn)
+[GitHub](https://github.com/paolodragone/pymzn) &nbsp;&nbsp;&nbsp; [Docs](https://paolodragone.com/pymzn)
 
 
 ## Pyconstruct
